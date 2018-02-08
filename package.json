@@ -1,0 +1,23 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "alex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsgolowin/alex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsgolowin/alex/issues"
+  },
+  "homepage": "https://github.com/wsgolowin/alex#readme",
+  "dependencies": {
+    "jspm": "^0.16.53"
+  }
+}
