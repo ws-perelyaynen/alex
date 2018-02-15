@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/wsgolowin/alex#readme",
   "dependencies": {
-    "jspm": "^0.16.53",
-    "microevent": "^1.0.0"
+    "jspm": "^0.16.53"
   }
 }
