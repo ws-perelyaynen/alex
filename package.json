@@ -19,5 +19,8 @@
   "homepage": "https://github.com/wsgolowin/alex#readme",
   "dependencies": {
     "jspm": "^0.16.53"
+  },
+  "devDependencies": {
+    "microevent": "^1.0.0"
   }
 }
