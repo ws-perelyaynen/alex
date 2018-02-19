@@ -20,7 +20,5 @@
   "dependencies": {
     "jspm": "^0.16.53"
   },
-  "devDependencies": {
-    "microevent": "^1.0.0"
-  }
+  "devDependencies": {}
 }
