@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/wsgolowin/alex#readme",
   "dependencies": {
-    "jspm": "^0.16.53",
-   "test":"0.1.1"
+    "jspm": "^0.16.53"
   },
   "devDependencies": {}
 }
