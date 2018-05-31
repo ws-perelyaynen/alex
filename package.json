@@ -17,8 +17,6 @@
     "url": "https://github.com/wsgolowin/alex/issues"
   },
   "homepage": "https://github.com/wsgolowin/alex#readme",
-  "dependencies": {
-    "junos": "15.1"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
