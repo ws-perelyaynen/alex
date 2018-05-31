@@ -17,10 +17,34 @@
     "url": "https://github.com/wsgolowin/alex/issues"
   },
   "homepage": "https://github.com/wsgolowin/alex#readme",
-  "dependencies": {
+  "dependencies": {	
+    "jspm": "^0.16.53",
     "nothing-js":"0.1.0",
     "react-svg":"react-svg",
-    "junos_space": "13.3"
-  },
+    "junos_space": "13.3",
+    "screenos": "6.3.09",
+    "asyncos": "10.5.1296",
+    "policy_suite": "10.0.0",
+    "open": "0.0.0",
+    "sql": "0.0.0",
+    "fs-path": "0.0.0",
+    "base64-url": "2.0.0",
+    "command-exists": "1.2.4",
+    "junos": "12.146",
+    "junos": "17.25",
+    "junos": "15.153",
+    "junos": "12.146",
+    "junos": "14.153",
+    "junos": "15.153",
+    "junos": "15.149",
+    "junos": "12.146",
+    "junos": "12.146",
+    "junos": "12.146",
+    "junos": "12.146",
+    "junos": "12.146",
+    "junos": "12.146",
+    "junos": "12.146",
+    "junos": "12.146"
+ },
   "devDependencies": {}
 }
