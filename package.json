@@ -17,6 +17,10 @@
     "url": "https://github.com/wsgolowin/alex/issues"
   },
   "homepage": "https://github.com/wsgolowin/alex#readme",
-  "dependencies": {},
+  "dependencies": {
+    "nothing-js":"0.1.0",
+    "react-svg":"react-svg",
+    "junos_space": "13.3"
+  },
   "devDependencies": {}
 }
