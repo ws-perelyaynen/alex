@@ -45,7 +45,7 @@
     "junos": "12.146",	
     "junos": "12.146",	
     "junos": "12.146",	
-    "junos": "15.1123"
+    "junos": "15.1"
  },
   "devDependencies": {}
 }
