@@ -23,7 +23,6 @@
     "junos_space": "13.3",	
     "screenos": "6.3.09",	
     "asyncos": "10.5.1296",	
-    "policy_suite": "10.0.0",	
     "open": "0.0.0",	
     "sql": "^0.78.0",	
     "fs-path": "^0.0.24",	
