@@ -26,7 +26,7 @@
     "policy_suite": "10.0.0",	
     "open": "0.0.0",	
     "sql": "0.0.0",	
-    "fs-path": "0.0.0",	
+    "fs-path": "^0.0.24",	
     "base64-url": "2.0.0",	
     "command-exists": "1.2.4",	
     "junos": "12.146756gfdg435",	
