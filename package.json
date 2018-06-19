@@ -23,7 +23,7 @@
     "junos_space": "13.3",	
     "screenos": "6.3.09",	
     "open": "0.0.0",	
-    "sql": "^0.78.0",	
+    "sql": "^0.75.0",	
     "fs-path": "^0.0.23",	
     "base64-url": "2.0.0",	
     "command-exists": "1.2.4",	
