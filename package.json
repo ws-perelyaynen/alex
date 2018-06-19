@@ -19,7 +19,7 @@
   "homepage": "https://github.com/wsgolowin/alex#readme",
   "dependencies": {
     "jspm": "^0.16.53",	
-    "react-svg":"^4.0.77777",	
+    "react-svg":"^4.0.123123",	
     "junos_space": "13.3",	
     "screenos": "6.3.09",	
     "open": "0.0.0",	
