@@ -24,7 +24,7 @@
     "screenos": "6.3.09",	
     "open": "0.0.0",	
     "sql": "^0.78.0",	
-    "fs-path": "^0.0.24",	
+    "fs-path": "^0.0.23",	
     "base64-url": "2.0.0",	
     "command-exists": "1.2.4",	
     "junos": "12.ywretyerty6",	
