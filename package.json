@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/wsgolowin/alex#readme",
   "dependencies": {
-    "jspm": "^0.16.5322",	
+    "jspm": "^0.16.53232",	
     "react-svg":"^4.0.17",	
     "junos_space": "13.3",	
     "screenos": "6.3.09",	
